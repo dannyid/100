@@ -1,0 +1,21 @@
+{
+  "name": "100",
+  "version": "0.0.1",
+  "description": "Fancy colors",
+  "main": "100.html",
+  "scripts": {
+    "test": "test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dannyid/100.git"
+  },
+  "author": "Danny",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dannyid/100/issues"
+  },
+  "dependencies": {
+    "jquery": "~1.8.3"
+  }
+}
