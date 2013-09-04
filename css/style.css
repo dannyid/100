@@ -1,0 +1,46 @@
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+div#container {
+    margin: 0 auto;
+    padding: 0;
+}
+
+table, tbody {
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+
+tr {
+    width: 100%;
+    height: 10%;
+}
+
+td {
+    width: 10%;
+    border: 1px solid #FFEEEE;
+    transition: background-color 5s;
+    -webkit-transition: background-color 5s;
+    -mox-transition: background-color 5s;
+    -o-transition: background-color 5s;
+}
+
+td:hover { 
+    background-color: #AA2222;
+    transition: background-color 0s;
+    -webkit-transition: background-color 0s;
+}
+
+td:visited {
+    background-color: #2222AA;
+
+}
+
+
+
